@@ -1,0 +1,15 @@
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\bin\Debug\net7.0\Acao_12_09.exe
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\bin\Debug\net7.0\Acao_12_09.deps.json
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\bin\Debug\net7.0\Acao_12_09.runtimeconfig.json
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\bin\Debug\net7.0\Acao_12_09.dll
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\bin\Debug\net7.0\Acao_12_09.pdb
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\obj\Debug\net7.0\Acao_12_09.csproj.AssemblyReference.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\obj\Debug\net7.0\Acao_12_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\obj\Debug\net7.0\Acao_12_09.AssemblyInfoInputs.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\obj\Debug\net7.0\Acao_12_09.AssemblyInfo.cs
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\obj\Debug\net7.0\Acao_12_09.csproj.CoreCompileInputs.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\obj\Debug\net7.0\Acao_12_09.dll
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\obj\Debug\net7.0\refint\Acao_12_09.dll
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\obj\Debug\net7.0\Acao_12_09.pdb
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\obj\Debug\net7.0\Acao_12_09.genruntimeconfig.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\Acao_12_09\obj\Debug\net7.0\ref\Acao_12_09.dll
