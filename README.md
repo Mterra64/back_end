@@ -1,4 +1,4 @@
-# Back-End Application (C#)
+# C# Backend Application
 
 ## 📌 Overview
 This project is a backend application developed in C# using .NET.
@@ -20,3 +20,9 @@ It focuses on object-oriented programming concepts and structured data handling.
 
 ## 🎯 Purpose
 Academic backend development practice focused on clean structure and logic implementation.
+
+## 📚 What I Learned
+- Object-oriented design
+- Structuring backend applications
+- Clean code organization
+- Project documentation best practices
